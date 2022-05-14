@@ -1,0 +1,29 @@
+.slider h3{
+	text-shadow: 1px 1px 3px rgba(248, 3, 3, 0.5);
+}
+
+
+.clients h3{
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+
+
+
+.about col {
+	margin: auto;
+}
+
+.clients img{
+	max-width: 200px;
+	filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.5));
+}
+
+section {
+	padding: 20px 0;
+}
+
+footer {
+	padding: 5px 0;
+}
+
